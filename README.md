@@ -1,1 +1,2 @@
-# http-go.expressvpn.com
+# https://go.expressvpn.com
+subdomain takeover
